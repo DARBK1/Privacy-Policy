@@ -1,0 +1,4 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  pay: ^3.2.1
